@@ -6,6 +6,8 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 locale: "en-US"
 markdown: kramdown
+include:
+  - _pages
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
