@@ -1,0 +1,17 @@
+title: "Yoonjae Yoo"
+description: "Data Analytics Portfolio"
+url: "https://yoonjaeyoo-data.github.io"
+baseurl: ""
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+locale: "en-US"
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
