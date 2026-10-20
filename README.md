@@ -1,6 +1,7 @@
-# Yoonjae Yoo — Portfolio
+# Yoonjae Yoo – Jekyll Portfolio
 
-Jekyll + Minimal Mistakes portfolio skeleton. No project notebook or results included.
+Home, Projects, About and two empty project-detail pages.
 
-## Publish
-Copy the contents of this folder into the ROOT of the `yoonjaeyoo-data.github.io` repository, commit and push. In GitHub repository **Settings → Pages**, select **Deploy from a branch**, branch **main**, folder **/(root)**.
+For GitHub Pages, enable Settings > Pages > Deploy from a branch > main / (root).
+
+Project content is deliberately not included.

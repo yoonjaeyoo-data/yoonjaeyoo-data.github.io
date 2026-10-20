@@ -1,1 +1,15 @@
 .portfolio-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.25rem;margin:1.5rem 0}.portfolio-tile{display:block;padding:1.7rem;border:1px solid #dce4ed;border-radius:12px;background:#fff;box-shadow:0 5px 18px rgba(25,45,70,.05);text-decoration:none!important;color:#253e55!important;transition:transform .2s,box-shadow .2s}.portfolio-tile:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(25,45,70,.14)}.portfolio-tile h3{margin:.8rem 0;font-size:1.12rem}.portfolio-tile p{margin:0;color:#496b89}.portfolio-index{font-size:.72rem;font-weight:700;letter-spacing:.12em;color:#557c9f}
+
+/* Full-width, readable project notebooks */
+.notebook-reading {margin-top:1.8rem; font-size:.94rem;line-height:1.75;overflow-wrap:anywhere;}
+.notebook-reading .cell{margin:1.5rem 0;padding:1rem 1.15rem;border:1px solid #e6ebf1;border-radius:10px;}
+.notebook-reading .text_cell{border:0;padding:.25rem 0;}
+.notebook-reading .input_area,.notebook-reading pre {padding:1rem;max-width:100%;overflow-x:auto;background:#f6f8fb;border-radius:8px;font-size:.84rem;line-height:1.55;}
+.notebook-reading img,.notebook-reading svg{max-width:100%;height:auto;}
+.notebook-reading table{display:block;max-width:100%;overflow-x:auto;font-size:.85rem;}
+.notebook-reading .prompt{display:none;}
+.notebook-intro{padding:1.3rem 1.5rem;background:#f4f8fc;border:1px solid #e2eaf3;border-radius:12px;}
+.notebook-kicker{font-size:.75rem;letter-spacing:.12em;font-weight:700;color:#44698b;}
+.notebook-actions{display:flex;flex-wrap:wrap;gap:1rem;margin-top:1.2rem;}
+.notebook-actions a{font-size:.9rem;font-weight:600;}
+@media(max-width:600px){.notebook-reading .cell{padding:.6rem}.notebook-intro{padding:1rem}}
