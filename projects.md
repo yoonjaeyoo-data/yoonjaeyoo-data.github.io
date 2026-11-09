@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-Select a project to open its dedicated portfolio page. The original notebook contents will be added later.
+Explore my data analytics and machine learning projects, where I apply SQL, Python, and statistical methods to investigate real-world problems, build predictive models, and translate analytical findings into meaningful insights.
 
 <div class="portfolio-grid">
   <a class="portfolio-tile" href="/projects/breast-cancer/">
