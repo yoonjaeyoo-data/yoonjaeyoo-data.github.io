@@ -38,3 +38,19 @@
 .notebook-intro p{margin:.6rem 0!important}.notebook-kicker{font-size:.73rem!important;letter-spacing:.12em;font-weight:700;color:#44698b!important}
 .notebook-actions{display:flex;flex-wrap:wrap;gap:1rem;margin-top:1.15rem}.notebook-actions a{font-size:.86rem;font-weight:600}
 @media(max-width:600px){.notebook-reading .input_area,.notebook-reading .output_area{padding:.75rem!important}.notebook-intro{padding:1rem!important}.notebook-reading .text_cell h1{font-size:1.5rem!important}.notebook-reading .text_cell h2{font-size:1.2rem!important}}
+
+/* Project image cards */
+.portfolio-tile.project-image-tile {
+  padding: 0 !important;
+  overflow: hidden;
+  display: block;
+  border-radius: 14px;
+}
+
+.project-cover {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 14px;
+}
+  
