@@ -49,7 +49,7 @@ author_profile: false
   <section class="yj-section">
     <h2>Education</h2>
     <div class="yj-card">
-      <h3>Stony Brook University (SUNY Korea)</h3>
+      <h3>Stony Brook University</h3>
       <p class="yj-meta">B.S. in Technological Systems Management · Magna Cum Laude</p>
       <p>My studies combined technology, management, quantitative methods, and research, shaping my interest in the intersection of analytics and organizational decision-making.</p>
     </div>
@@ -58,7 +58,7 @@ author_profile: false
   <section class="yj-section">
     <h2>Experience</h2>
     <div class="yj-card">
-      <h3>Business Growth &amp; Research Intern · NUSEUM</h3>
+      <h3>Business Growth &amp; Development / Operations Intern · NUSEUM</h3>
       <p class="yj-meta">Healthcare AI / Clinical Nutrition</p>
       <p>Conducted market and competitor research, explored partnership opportunities, and supported business development for an AI-powered clinical nutrition solution. This experience deepened my interest in making AI useful and trustworthy in healthcare settings.</p>
     </div>
