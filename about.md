@@ -60,12 +60,12 @@ author_profile: false
     <div class="yj-card">
       <h3>Business Growth &amp; Development / Operations Intern · NUSEUM</h3>
       <p class="yj-meta">Healthcare AI / Clinical Nutrition</p>
-      <p>Conducted market and competitor research, explored partnership opportunities, and supported business development for an AI-powered clinical nutrition solution. This experience deepened my interest in making AI useful and trustworthy in healthcare settings.</p>
+      <p> Interviewed 40 healthcare professionals on current habits, spending, intent to adopt, and willingness to pay, finding that 60% of clinicians would adopt it only if it fit existing workflows. Researched digital health AI firms to audit and revise NUSEUM’s total addressable, serviceable available, and serviceable obtainable market (TAM/SAM/SOM) estimates, finding that reliability, safety, and workflow fit drive adoption. Turned findings into the market sizing section of NUSEUM’s investor relations (IR) deck, built a QR code-based user flow and Google Forms survey for potential users, and wrote its social venture certification application.</p>
     </div>
     <div class="yj-card">
       <h3>Teaching Assistant · Stony Brook University</h3>
-      <p class="yj-meta">Korean Language Courses</p>
-      <p>Supported students with individualized instruction and helped improve course processes through feedback and communication.</p>
+      <p class="yj-meta">KOR 111 &amp; KOR 112</p>
+      <p>Tracked attendance, assignments, and quizzes for ~25 students and found that low KOR 111 submission rates came from uneven skill levels and weekly deadlines, not low motivation. Proposed a 3-week submission cycle that the instructor adopted for KOR 112, raising submission rates from ~50% to ~90% by fixing the process rather than pushing the students.</p>
     </div>
   </section>
 
